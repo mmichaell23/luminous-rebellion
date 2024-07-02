@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LuminousRebellion.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C1872CCB-4278-40E8-8B7A-42A9D8701C75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LuminousRebellion.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LuminousRebellionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BA96B358-73BC-44EF-B235-6446D5FC06D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LuminousRebellion">
+      <UniqueIdentifier>{4DB854A0-5A1B-4D10-875C-5E22488C4AE4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LuminousRebellion\LuminousRebellion.Build.cs">
+      <Filter>Source\LuminousRebellion</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LuminousRebellion\LuminousRebellion.cpp">
+      <Filter>Source\LuminousRebellion</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LuminousRebellion\LuminousRebellion.h">
+      <Filter>Source\LuminousRebellion</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LuminousRebellion\NewActorComponent.cpp">
+      <Filter>Source\LuminousRebellion</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LuminousRebellion\NewActorComponent.h">
+      <Filter>Source\LuminousRebellion</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

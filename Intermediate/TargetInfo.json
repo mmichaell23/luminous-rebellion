@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LuminousRebellion",
+			"Path": "C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\LuminousRebellion\\Source\\LuminousRebellion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LuminousRebellionEditor",
+			"Path": "C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\LuminousRebellion\\Source\\LuminousRebellionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

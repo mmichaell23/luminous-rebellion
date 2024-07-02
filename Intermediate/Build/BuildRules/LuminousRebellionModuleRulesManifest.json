@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\LuminousRebellion\\Source\\LuminousRebellion\\LuminousRebellion.Build.cs",
+		"C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\LuminousRebellion\\Source\\LuminousRebellion.Target.cs",
+		"C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\LuminousRebellion\\Source\\LuminousRebellionEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
