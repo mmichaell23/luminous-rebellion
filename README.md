@@ -37,13 +37,7 @@ branching narrative that reveals more in-depth plot points.
 
 # Contributing
 
-You can contribute by improving this game
-
-Clone this repository locally from GitHub:
-
-```bash
-git clone https://github.com/mmichaell23/luminous-rebellion.git
-```
+Check this [CONTRIBUTING.md](https://github.com/mmichaell23/luminous-rebellion/blob/main/CONTRIBUTING.md)
 
 # License
 
